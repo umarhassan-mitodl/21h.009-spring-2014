@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "legacy_uid": "0865c291-12d3-afd0-d59a-90bf7305076c",
+  "instructors": {
+    "content": [
+      "4b59017c-92e6-cb8b-595e-843febee23b2",
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e784103e-ace7-c035-da20-8c6614752572",
+    "website": "21h-009-the-world-1400-present-spring-2014"
+  },
+  "course_title": "The World: 1400-Present",
+  "course_description": "This course surveys the increasing interaction between communities, as the barrier of distance succumbed to both curiosity and new transport technologies. It explores Western Europe and the United States' rise to world dominance, as well as the great divergence in material, political, and technological development between Western Europe and East Asia post\u20131750, and its impact on the rest of the world. It examines a series of evolving relationships, including human beings and their physical environment; religious and political systems; and sub-groups within communities, sorted by race, class, and gender. It introduces historical and other interpretive methodologies using both primary and secondary source materials.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.009",
+  "course_image_thumbnail": {
+    "content": "7a746a83-a48d-3b15-4d75-bd70401643e7",
+    "website": "21h-009-the-world-1400-present-spring-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "5e0cea5a-afc7-4ddc-a19d-9e299e37301b",
+  "site_short_id": "21h.009-spring-2014",
+  "site_url_path": "courses/21h-009-the-world-1400-present-spring-2014",
+  "title": "Course Metadata"
+}
